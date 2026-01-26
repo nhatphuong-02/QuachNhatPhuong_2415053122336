@@ -1,0 +1,14 @@
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\bin\Debug\net10.0\Tuan2.exe
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\bin\Debug\net10.0\Tuan2.deps.json
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\bin\Debug\net10.0\Tuan2.runtimeconfig.json
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\bin\Debug\net10.0\Tuan2.dll
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\bin\Debug\net10.0\Tuan2.pdb
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\Tuan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\Tuan2.AssemblyInfoInputs.cache
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\Tuan2.AssemblyInfo.cs
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\Tuan2.csproj.CoreCompileInputs.cache
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\Tuan2.dll
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\refint\Tuan2.dll
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\Tuan2.pdb
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\Tuan2.genruntimeconfig.cache
+D:\Code\task\c#\QuachNhatPhuong_2415053122336\Tuan2\obj\Debug\net10.0\ref\Tuan2.dll

@@ -1,0 +1,14 @@
+D:\Code\task\c#\Bai2\bin\Debug\net10.0\Bai2.exe
+D:\Code\task\c#\Bai2\bin\Debug\net10.0\Bai2.deps.json
+D:\Code\task\c#\Bai2\bin\Debug\net10.0\Bai2.runtimeconfig.json
+D:\Code\task\c#\Bai2\bin\Debug\net10.0\Bai2.dll
+D:\Code\task\c#\Bai2\bin\Debug\net10.0\Bai2.pdb
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\Bai2.AssemblyInfoInputs.cache
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\Bai2.AssemblyInfo.cs
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\Bai2.csproj.CoreCompileInputs.cache
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\Bai2.dll
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\refint\Bai2.dll
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\Bai2.pdb
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\Bai2.genruntimeconfig.cache
+D:\Code\task\c#\Bai2\obj\Debug\net10.0\ref\Bai2.dll
