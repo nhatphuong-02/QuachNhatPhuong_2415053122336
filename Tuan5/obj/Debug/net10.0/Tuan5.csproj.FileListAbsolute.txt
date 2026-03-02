@@ -1,0 +1,14 @@
+D:\Code\task\c#\Tuan5\bin\Debug\net10.0\Tuan5.exe
+D:\Code\task\c#\Tuan5\bin\Debug\net10.0\Tuan5.deps.json
+D:\Code\task\c#\Tuan5\bin\Debug\net10.0\Tuan5.runtimeconfig.json
+D:\Code\task\c#\Tuan5\bin\Debug\net10.0\Tuan5.dll
+D:\Code\task\c#\Tuan5\bin\Debug\net10.0\Tuan5.pdb
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\Tuan5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\Tuan5.AssemblyInfoInputs.cache
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\Tuan5.AssemblyInfo.cs
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\Tuan5.csproj.CoreCompileInputs.cache
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\Tuan5.dll
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\refint\Tuan5.dll
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\Tuan5.pdb
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\Tuan5.genruntimeconfig.cache
+D:\Code\task\c#\Tuan5\obj\Debug\net10.0\ref\Tuan5.dll
