@@ -1,0 +1,15 @@
+D:\LINQ\BaiTapLop\bin\Debug\net10.0\BaiTapLop.exe
+D:\LINQ\BaiTapLop\bin\Debug\net10.0\BaiTapLop.deps.json
+D:\LINQ\BaiTapLop\bin\Debug\net10.0\BaiTapLop.runtimeconfig.json
+D:\LINQ\BaiTapLop\bin\Debug\net10.0\BaiTapLop.dll
+D:\LINQ\BaiTapLop\bin\Debug\net10.0\BaiTapLop.pdb
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\BaiTapLop.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\BaiTapLop.AssemblyInfoInputs.cache
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\BaiTapLop.AssemblyInfo.cs
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\BaiTapLop.csproj.CoreCompileInputs.cache
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\BaiTapLop.sourcelink.json
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\BaiTapLop.dll
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\refint\BaiTapLop.dll
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\BaiTapLop.pdb
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\BaiTapLop.genruntimeconfig.cache
+D:\LINQ\BaiTapLop\obj\Debug\net10.0\ref\BaiTapLop.dll
