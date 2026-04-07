@@ -1,0 +1,48 @@
+﻿-- Tạo database
+CREATE DATABASE BTThayHuy_DBFirst
+GO
+
+-- Sử dụng database
+USE BTThayHuy_DBFirst
+GO
+
+-- Bảng KhachHang
+CREATE TABLE KhachHang
+(
+    MaKH VARCHAR(10) PRIMARY KEY,
+    TenKH NVARCHAR(50) NOT NULL,
+    SDT CHAR(10) NOT NULL
+)
+GO
+
+-- Bảng SanPham
+CREATE TABLE SanPham
+(
+    MaSP VARCHAR(10) PRIMARY KEY,
+    TenSP NVARCHAR(50) NOT NULL,
+    Gia FLOAT NOT NULL
+)
+GO
+
+-- Bảng HoaDon
+CREATE TABLE HoaDon
+(
+    MaHD VARCHAR(10) PRIMARY KEY,
+    MaKH VARCHAR(10) NOT NULL,
+    NgayLap DATE NOT NULL,
+    FOREIGN KEY (MaKH) REFERENCES KhachHang(MaKH)
+)
+GO
+
+-- Bảng ChiTietHoaDon
+CREATE TABLE ChiTietHoaDon
+(
+    MaHD VARCHAR(10),
+    MaSP VARCHAR(10),
+    SoLuong INT NOT NULL,
+    DonGia FLOAT NOT NULL,
+    PRIMARY KEY (MaHD, MaSP),
+    FOREIGN KEY (MaHD) REFERENCES HoaDon(MaHD),
+    FOREIGN KEY (MaSP) REFERENCES SanPham(MaSP)
+)
+GO
