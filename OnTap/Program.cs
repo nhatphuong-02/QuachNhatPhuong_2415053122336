@@ -1,4 +1,6 @@
 ﻿using BaiTapLop;
+
+Console.WriteLine("Quach Nhat Phuong\nMa sinh vien: 2415053122336\nLop: 225LTC#01\n");
 Random rd = new Random();
 List<Product> list = new List<Product>()
 {

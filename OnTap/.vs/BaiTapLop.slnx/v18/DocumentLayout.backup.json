@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LINQ\\BaiTapLop\\",
+  "WorkspaceRootPath": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{806DC71E-1C16-4B68-A8F1-980631CA8417}|BaiTapLop.csproj|d:\\linq\\baitaplop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{806DC71E-1C16-4B68-A8F1-980631CA8417}|BaiTapLop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{806DC71E-1C16-4B68-A8F1-980631CA8417}|BaiTapLop.csproj|d:\\linq\\baitaplop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{806DC71E-1C16-4B68-A8F1-980631CA8417}|BaiTapLop.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\LINQ\\BaiTapLop\\Product.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "D:\\LINQ\\BaiTapLop\\Product.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Product.cs",
               "RelativeToolTip": "Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T06:24:48.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T06:24:48.422Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LINQ\\BaiTapLop\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\LINQ\\BaiTapLop\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T06:24:17.943Z",
               "EditorCaption": ""

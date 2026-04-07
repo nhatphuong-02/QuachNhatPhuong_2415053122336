@@ -11,6 +11,6 @@ namespace BaiTapLop
         public double Price { get; set; }
 
         public String Category { get; set; }
-
+        public required List<OrderDetail> Details { get; set; }
     }
 }

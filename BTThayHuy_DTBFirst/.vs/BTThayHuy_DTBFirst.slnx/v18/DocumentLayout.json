@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btthayhuy_dtbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btthayhuy_dtbfirst\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|solutionrelative:models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btthayhuy_dtbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btthayhuy_dtbfirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|solutionrelative:controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btthayhuy_dtbfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btthayhuy_dtbfirst\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|solutionrelative:controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btthayhuy_dtbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btthayhuy_dtbfirst\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806A7644-D632-1A94-BD42-51E1B138A48D}|BTThayHuy_DTBFirst.csproj|solutionrelative:controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvygAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:30:22.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HoaDonsController.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "Controllers\\HoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:24:18.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SanPhamsController.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:23:50.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:22:33.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhachHangsController.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:22:11.149Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:13:58.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Models\\KhachHang.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:10:41.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTThayHuy_DTBFirst\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-07T08:30:01.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T08:30:01.14Z"
             }
           ]
         }
