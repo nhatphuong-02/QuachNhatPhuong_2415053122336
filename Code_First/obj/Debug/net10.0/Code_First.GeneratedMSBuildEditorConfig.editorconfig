@@ -30,12 +30,92 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/ChiTietPhieuMuon/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaWV1TXVvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/ChiTietPhieuMuon/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaWV1TXVvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/ChiTietPhieuMuon/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaWV1TXVvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/ChiTietPhieuMuon/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaWV1TXVvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/ChiTietPhieuMuon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaWV1TXVvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/DocGia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/DocGia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/DocGia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/DocGia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/DocGia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/PhieuMuon/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/PhieuMuon/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/PhieuMuon/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/PhieuMuon/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/PhieuMuon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/Sach/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/Sach/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/Sach/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/Sach/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/Sach/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Code/task/c\#/QuachNhatPhuong_2415053122336/Code_First/Views/Shared/Error.cshtml]
