@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\custormer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:custormer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Custormer.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Custormer.cs",
               "RelativeDocumentMoniker": "Custormer.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "Custormer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T07:21:36.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T07:21:36.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\OrderDetail.cs",
               "RelativeDocumentMoniker": "OrderDetail.cs",
@@ -55,12 +54,11 @@
               "RelativeToolTip": "OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T07:15:18.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T07:15:18.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Order.cs",
               "RelativeDocumentMoniker": "Order.cs",
@@ -68,12 +66,11 @@
               "RelativeToolTip": "Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T07:13:39.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T07:13:39.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
@@ -86,13 +83,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T06:24:17.943Z",
               "EditorCaption": ""

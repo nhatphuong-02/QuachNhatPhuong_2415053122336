@@ -17,7 +17,7 @@ Console.WriteLine("Cac san pham co gia tren 500: ");
 if (c31.Count > 0)
     c31.ForEach(x => Console.WriteLine($"Ten: {x.Name}; Gia: {x.Price:F0}"));
 else
-    Console.WriteLine("Danh sach rong");
+    Console.WriteLine("Danh sach rong!");
 
 var c32 = list.OrderBy(x=>x.Price).ToList();
 Console.WriteLine("\n\nDanh sach gia tang dan: ");
@@ -33,7 +33,7 @@ var c34 = list.Where(x => x.Name.Contains(a)).ToList();
 if (c34.Count > 0)
     c34.ForEach(x => Console.WriteLine($"Id: {x.Id}; Ten: {x.Name}; Gia: {x.Price:F0}; Loai: {x.Category} "));
 else
-    Console.WriteLine("Khong tim thay san pham nao");
+    Console.WriteLine("Khong tim thay san pham nao!");
 
 var c41 = list.Sum(x => x.Price);
 Console.WriteLine($"\n\nTong gia cac san pham la: :{c41:F0}");

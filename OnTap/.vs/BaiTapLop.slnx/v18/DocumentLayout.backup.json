@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\custormer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:custormer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\ontap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73347ADE-3908-1F1C-429B-0AA796589F1D}|BaiTapLop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Custormer.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Custormer.cs",
+              "RelativeDocumentMoniker": "Custormer.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Custormer.cs",
+              "RelativeToolTip": "Custormer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:21:36.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "OrderDetail.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\OrderDetail.cs",
+              "RelativeToolTip": "OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:15:18.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:13:39.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
               "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T06:24:48.422Z"
+              "WhenOpened": "2026-03-16T06:24:48.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\OnTap\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T06:24:17.943Z",
