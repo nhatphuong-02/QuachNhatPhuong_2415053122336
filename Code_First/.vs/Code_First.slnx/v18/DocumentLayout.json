@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\models\\thuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\thuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\models\\chitietphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\chitietphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\models\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\models\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\models\\chitietphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\chitietphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\models\\thuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:models\\thuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F71E6FC9-2A82-A9DF-6984-AE9C554412AA}|Code_First.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\code_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:58:27.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T05:58:27.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ThuVienContext.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\ThuVienContext.cs",
               "RelativeDocumentMoniker": "Models\\ThuVienContext.cs",
@@ -72,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -80,48 +79,51 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:49:50.05Z"
+              "WhenOpened": "2026-04-08T05:49:50.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ChiTietPhieuMuon.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\ChiTietPhieuMuon.cs",
               "RelativeDocumentMoniker": "Models\\ChiTietPhieuMuon.cs",
               "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\ChiTietPhieuMuon.cs",
               "RelativeToolTip": "Models\\ChiTietPhieuMuon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T05:47:38.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PhieuMuon.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\PhieuMuon.cs",
               "RelativeDocumentMoniker": "Models\\PhieuMuon.cs",
               "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\PhieuMuon.cs",
               "RelativeToolTip": "Models\\PhieuMuon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:47:02.839Z"
+              "WhenOpened": "2026-04-08T05:47:02.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Sach.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\Sach.cs",
               "RelativeDocumentMoniker": "Models\\Sach.cs",
               "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\Sach.cs",
               "RelativeToolTip": "Models\\Sach.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:46:03.853Z"
+              "WhenOpened": "2026-04-08T05:46:03.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DocGia.cs",
               "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\Code_First\\Models\\DocGia.cs",
               "RelativeDocumentMoniker": "Models\\DocGia.cs",
@@ -129,7 +131,8 @@
               "RelativeToolTip": "Models\\DocGia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T05:44:53.925Z"
+              "WhenOpened": "2026-04-08T05:44:53.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
