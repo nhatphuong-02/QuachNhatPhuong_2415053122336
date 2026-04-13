@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\controllers\\dangkiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:controllers\\dangkiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\migrations\\20260413073651_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:migrations\\20260413073651_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\controllers\\khoahocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:controllers\\khoahocscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\models\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:models\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\models\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:models\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|d:\\code\\task\\c#\\quachnhatphuong_2415053122336\\btlop\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF857E9-6ECB-143E-4FDC-CE342941A9CA}|BTLOP.csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T09:50:29.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T07:49:51.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KhoaHocsController.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Controllers\\KhoaHocsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhoaHocsController.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Controllers\\KhoaHocsController.cs",
+              "RelativeToolTip": "Controllers\\KhoaHocsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:49:23.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SinhViensController.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Controllers\\SinhViensController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SinhViensController.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Controllers\\SinhViensController.cs",
+              "RelativeToolTip": "Controllers\\SinhViensController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:48:52.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangKisController.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Controllers\\DangKisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DangKisController.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Controllers\\DangKisController.cs",
+              "RelativeToolTip": "Controllers\\DangKisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:48:20.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260413073651_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Migrations\\20260413073651_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260413073651_InitialCreate.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Migrations\\20260413073651_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260413073651_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:36:52.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:30:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T07:29:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:25:19.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangKi.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Models\\DangKi.cs",
+              "RelativeDocumentMoniker": "Models\\DangKi.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Models\\DangKi.cs",
+              "RelativeToolTip": "Models\\DangKi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:21:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhoaHoc.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Models\\KhoaHoc.cs",
+              "RelativeDocumentMoniker": "Models\\KhoaHoc.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Models\\KhoaHoc.cs",
+              "RelativeToolTip": "Models\\KhoaHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:21:27.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Models\\SinhVien.cs",
+              "ToolTip": "D:\\Code\\task\\c#\\QuachNhatPhuong_2415053122336\\BTLOP\\Models\\SinhVien.cs",
+              "RelativeToolTip": "Models\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:21:12.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
